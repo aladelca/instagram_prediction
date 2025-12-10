@@ -1,0 +1,8 @@
+torch
+torchvision
+scikit-learn
+nltk
+joblib
+pillow
+numpy
+nbformat
